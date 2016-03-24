@@ -1,0 +1,17 @@
+{
+  "name": "pb-app",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "author": "Ryan G <kythias@hotmail.co.uk>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "^3.2.6",
+    "socket.io": "~0.9.14"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "license": "MIT"
+}
